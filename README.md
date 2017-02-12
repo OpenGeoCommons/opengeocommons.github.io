@@ -1,1 +1,1 @@
-![logo](opengeocommons_logo_earthrise.jpg)!
+![logo](opengeocommons_logo_earthrise.jpg)
